@@ -6,9 +6,9 @@ WO Core Classes Map
 
 return [
 	'Exception' => [
-    	'name' => 'wo\exception', 
-    	'file' => WO_PATH .'/exception/Exception.php', 
-    	'Path' => 'wo/exception'
+        'name' => 'wo\exception', 
+        'file' => WO_PATH .'/exception/Exception.php', 
+        'Path' => 'wo/exception'
 	],
 	'Helper' => [
     	'name' => 'wo\helper', 
